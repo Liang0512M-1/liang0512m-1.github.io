@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>你好，世界！</title>
+    <link href="/2025/04/19/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E4%B8%96%E7%95%8C/"/>
+    <url>/2025/04/19/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E4%B8%96%E7%95%8C/</url>
+    
+    <content type="html"><![CDATA[<p>欢迎来到我的博客，此博客依赖于 GitHub Pages，框架为 <a href="https://hexo.io/">Hexo</a>。</p><p>此文章是我的博客的第一篇文章。</p><h3 id="我如何新建一篇文章"><a href="#我如何新建一篇文章" class="headerlink" title="我如何新建一篇文章"></a>我如何新建一篇文章</h3><p>我使用 Git Bash 新建文章</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>之后再本地运行测试</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><h3 id="如何把文章上传到-GitHub"><a href="#如何把文章上传到-GitHub" class="headerlink" title="如何把文章上传到 GitHub"></a>如何把文章上传到 GitHub</h3><p>因为我网络的玄学原因，无法直接通过</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>将文章更新推送到 GitHub</p><p>所以我直接把 public 文件夹里的内容上传到 GitHub 仓库</p><h3 id="网站有-BUG"><a href="#网站有-BUG" class="headerlink" title="网站有 BUG"></a>网站有 BUG</h3><p>你可以联系我，在关于页面里就有</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>测试</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  
+</search>
